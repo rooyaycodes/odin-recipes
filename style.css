@@ -1,0 +1,17 @@
+.title {
+    color: #483B2d;
+    font-size: 38px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    background-color: tan;
+    text-align: center;
+}
+
+ul {
+    background-color: #FAF9F6;
+    font-size: 22px; 
+    text-align: left;
+}
+
